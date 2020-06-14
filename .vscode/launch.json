@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingSets",
+            "request": "launch",
+            "mainClass": "com.data.structures.sets.TestingSets",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingQueues",
+            "request": "launch",
+            "mainClass": "com.data.structures.queues.TestingQueues",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingPrioQueues",
+            "request": "launch",
+            "mainClass": "com.data.structures.priorityqueue.TestingPrioQueues",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingBT",
+            "request": "launch",
+            "mainClass": "com.data.structures.trees.TestingBT",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingQuickSort",
+            "request": "launch",
+            "mainClass": "com.basic.concepts.sorting.TestingQuickSort",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingSLL",
+            "request": "launch",
+            "mainClass": "com.data.structures.list.TestingSLL",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - steph",
+            "request": "launch",
+            "mainClass": "com.programming.challenges.problemA.steph",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingSuperhero",
+            "request": "launch",
+            "mainClass": "com.programming.challenges.problemC.TestingSuperhero",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingDubidubidapdap",
+            "request": "launch",
+            "mainClass": "com.programming.challenges.problemB.TestingDubidubidapdap",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingJosephus",
+            "request": "launch",
+            "mainClass": "com.programming.challenges.problemA.TestingJosephus",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingStacks",
+            "request": "launch",
+            "mainClass": "com.basic.concepts.stacks.TestingStacks",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingQuickSort",
+            "request": "launch",
+            "mainClass": "com.testing.TestingQuickSort",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestingProb",
+            "request": "launch",
+            "mainClass": "com.testing.TestingProb",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestingAlgo<DataStructures>",
+            "request": "launch",
+            "mainClass": "com.testing.TestingAlgo",
+            "projectName": "DataStructures"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestingDS<DataStructures>",
+            "request": "launch",
+            "mainClass": "com.testing.TestingDS",
+            "projectName": "DataStructures"
+        }
+    ]
+}
