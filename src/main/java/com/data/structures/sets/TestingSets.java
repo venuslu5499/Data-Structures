@@ -11,6 +11,7 @@ public class TestingSets {
         s1.addItem("2nd");
         s1.addItem("1st");
         s1.addItem("4th");
+        s1.addItem("5th");
         s1.printArray();
 
     }
